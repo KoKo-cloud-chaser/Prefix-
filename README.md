@@ -1,4 +1,4 @@
-Prefix + is a small scritp that can be used thru CMD or just by double-clicking on the file
+Prefix + is a small scritp that can be used thru CMD or just by double-clicking on the file<br>
 It was made for helping people converting a DiffSinger dataset to be used with multidict update
 
 HOW TO USE?
