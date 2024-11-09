@@ -15,7 +15,7 @@ TIPS:<br>
      To change the or to add more you can open the .py file with a text editor and change the line 5<br>
     ex:     exclude_labels = {"a", "i", "u", "e", "o", "N", "TRS", "pau", "sil"}<br>
     <br>
-    <br>BEFORE                                   AFTER<br>
+    <br>BEFORE‎‎‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎‏‏‎ ‎AFTER<br>
         0 288000000 SP                           0 288000000 SP<br>
         288000000 296636979 o                    288000000 296636979 ja/o<br>
         296636979 297178955 r                    296636979 297178955 ja/r<br>
